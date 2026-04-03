@@ -1,0 +1,5 @@
+{
+  "name": "EmotionVoice Studio",
+  "description": "Generate realistic human-like voices with specific emotions and American accents using Gemini TTS. Supports segmented script instructions and audio downloads.",
+  "requestFramePermissions": []
+}
